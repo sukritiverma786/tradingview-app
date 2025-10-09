@@ -7,10 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "lint": "eslint ."
   },
-  "homepage": "https://sukritiverma786.github.io/tradingview-app",
   "dependencies": {
     "lucide-react": "^0.545.0",
     "react": "^19.1.1",
