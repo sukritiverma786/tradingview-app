@@ -158,7 +158,7 @@ const StatsCards = ({
 
   return (
     <div
-      className="w-[96%] max-w-md p-[22px] border border-gray-300 rounded-lg shadow-md bg-white dark:bg-gray-800 dark:border-gray-700"
+      className="w-[96%] max-w-md p-[8px] border border-gray-300 rounded-lg shadow-md bg-white dark:bg-gray-800 dark:border-gray-700"
       style={{
         color: theme === "dark" ? "white" : "black",
         fontSize: "14px",
